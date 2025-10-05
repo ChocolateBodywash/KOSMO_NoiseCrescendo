@@ -1,5 +1,8 @@
 ## KOSMO Format Noise Crescendo
 
+![](/img/NoiseCrePanelIMG.jpg)
+
+
 This is a compact module designed to produce noise crescendos for transitions, sweeps, and general sonic mischief. It’s built around a simple transistor noise circuit feeding into a low-pass filter.
 The filter itself is adapted from Look Mum No Computer’s Synth Voice on a Breadboard video:
 https://www.youtube.com/watch?v=GsTGu2V7tcU&t=2612s
