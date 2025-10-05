@@ -18,3 +18,5 @@ LM13700s cost $4 USD on Tayda. In Canadian terms, that’s… let’s just say �
 Note: This was created by a hobbyist with no formal engineering training outside various late night YouTube binges. 
 I’ve confirmed these designs to work but I make no guarantees on the design working efficiently.. or working at all.
 
+Credit: Analog Output (Richard Holmes) for footprint libraries and front panel templates.
+
