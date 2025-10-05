@@ -7,11 +7,6 @@
 		(legacy_teardrops no)
 	)
 	(paper "USLegal" portrait)
-	(title_block
-		(company "Rich Holmes / Analog Output")
-		(comment 1 "or neighboring rights to this work. Published from United States.")
-		(comment 2 "To the extent possible under law, Richard Holmes has waived all copyright and related ")
-	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
