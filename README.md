@@ -1,4 +1,4 @@
-## KOSMO Format Noise Crescendo (work in progress)
+## KOSMO Format Noise Crescendo
 
 ![](/img/NoiseCrePanelIMG.jpg)
 
