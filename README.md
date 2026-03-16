@@ -5,7 +5,7 @@
 
 Note: this module is very quiet for some reason, I'll probably need to add an op amp gain before the output in order to get 10Vpp
 
-This is a compact module designed to produce noise crescendos for transitions, sweeps, and general sonic mischief. It’s built around a simple transistor noise circuit feeding into a low-pass filter.
+This is a compact module designed to produce noise crescendos for transitions, sweeps, and other crazy sounds. It’s built around a simple transistor noise circuit feeding into a low-pass filter.
 The filter itself is adapted from Look Mum No Computer’s Synth Voice on a Breadboard video:
 
 [![Look Mum No Computer’s Synth Voice on a Breadboard video](https://img.youtube.com/vi/GsTGu2V7tcU/0.jpg)](https://www.youtube.com/watch?v=GsTGu2V7tcU&t=2612s)
